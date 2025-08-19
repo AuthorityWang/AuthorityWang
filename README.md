@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I'm currently a undergraduate student at ShanghaiTech University. 
+- I'm currently a PhD student at ShanghaiTech University. 
 - My research interests lie in 3D vision and Graphics. 
 - Homepage: [https://authoritywang.github.io/](https://authoritywang.github.io/)
-- Email: wangph1@shanghaitech.edu.cn
+- Email: wangph12025@shanghaitech.edu.cn
 
 <!--
 **AuthorityWang/AuthorityWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
